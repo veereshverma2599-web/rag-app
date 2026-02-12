@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sentence-transformers
+faiss-cpu
+rank-bm25
+redis
+transformers
+torch
+pypdf
+python-dotenv
+accelerate
+
